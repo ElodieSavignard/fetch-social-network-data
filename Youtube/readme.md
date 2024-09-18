@@ -1,5 +1,5 @@
 ### Install Python
-https://www.python.org/downloads/ \
+https://www.python.org/downloads/ 
 
 ### Create Google API Key
 
@@ -12,15 +12,15 @@ To create your application's API key:
 5 - Click Create credentials and then select API key.
 6 - Inside the searchbar find "Youtube Data API V3", click and enable it.
 
-https://support.google.com/googleapi/answer/6158862?hl=en \
+https://support.google.com/googleapi/answer/6158862?hl=en 
 
 ### Add your API Key inside script
 
-Insert your API key inside var `API_KEY = ''` at line 100 on the full_youtube_fetch.py script. \
+Insert your API key inside var `API_KEY = ''` at line 100 on the full_youtube_fetch.py script. 
 
 ### Install packages
 Run the command inside your terminal :\
-```pip install google-api-python-client openpyxl pandas``` \
+```pip install google-api-python-client openpyxl pandas``` 
 
 
 ### Run Script
