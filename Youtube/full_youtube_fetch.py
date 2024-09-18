@@ -94,7 +94,7 @@ def save_to_excel(videos, channel_name):
 
 
 if __name__ == "__main__":
-    API_KEY = 'AIzaSyC8VRoeokncs5zdKEo03C4J4rPgbox-HgA'
+    API_KEY = ''
     channel_name = sys.argv[1]
     youtube = build('youtube', 'v3', developerKey=API_KEY)
 
