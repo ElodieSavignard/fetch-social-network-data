@@ -1,3 +1,6 @@
+### Install Python
+https://www.python.org/downloads/
+
 ### Create Google API Key
 
 To create your application's API key:
