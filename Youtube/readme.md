@@ -1,6 +1,10 @@
 ### Install Python
 https://www.python.org/downloads/ 
 
+### For Windows Users
+Download git bash
+https://git-scm.com/downloads
+
 ### Create Google API Key
 
 To create your application's API key:
