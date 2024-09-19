@@ -16,7 +16,7 @@ https://support.google.com/googleapi/answer/6158862?hl=en
 
 ### Add your API Key inside script
 
-Insert your API key inside var `API_KEY = ''` at line 100 on the full_youtube_fetch.py script. 
+Insert your API key inside var `API_KEY = ''` on the full_youtube_fetch.py script. 
 
 ### Install packages
 Run the command inside your terminal :\
