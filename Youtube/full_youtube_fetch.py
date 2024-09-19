@@ -54,8 +54,11 @@ def get_channel_videos(channel_id):
                 id=video_id
             )
             video_response = video_request.execute()
-            video_duration_ytb = video_response['items'][0]['contentDetails']['duration']
-            video_duration = video_duration_ytb[2:]
+            try:
+                video_duration_ytb = video_response['items'][0]['contentDetails']['duration']
+                video_duration = video_duration_ytb[2:]
+            except KeyError:
+                video_duration = "No duration"
             try:
                 view_count = video_response['items'][0]['statistics']['viewCount']
             except KeyError:
