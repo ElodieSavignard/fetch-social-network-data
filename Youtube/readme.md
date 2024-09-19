@@ -39,6 +39,6 @@ Run the following command in a terminal :\
 
 ### Run Script
 For Linux Users :
-`python3 full_youtube_fetch.py ChannelName`\
+`python3 full_youtube_fetch.py ChannelName` \
 For Windows Users :
 `python full_youtube_fetch.py ChannelName`
