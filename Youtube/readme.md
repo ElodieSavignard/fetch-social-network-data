@@ -9,7 +9,7 @@ Or open cmd and run : \
 `winget install --id Git.Git -e --source winget` 
 ### For Linux Users
 Use the appropriate package manager command, followed by `git` \
-Exemple for Rel \
+Example for Rel distro \
 `sudo dnf install git`
 
 ## Create Google API Key
