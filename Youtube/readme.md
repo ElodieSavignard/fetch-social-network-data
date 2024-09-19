@@ -1,17 +1,17 @@
-### Install Python
+## Install Python
 https://www.python.org/downloads/ 
 
-### Install Git
-## For Windows Users :
+## Install Git
+### For Windows Users :
 Download git bash with the followinf link \
 https://git-scm.com/downloads \
 or open cmd and execute
 `winget install --id Git.Git -e --source winget` 
-## For Linux Users
+### For Linux Users
 Use the appropriate package manager command, followed by `git` \
 `sudo dnf install git`
 
-### Create Google API Key
+## Create Google API Key
 
 To create your application's API key:
 
@@ -24,15 +24,15 @@ To create your application's API key:
 
 https://support.google.com/googleapi/answer/6158862?hl=en 
 
-### Git clone
+## Git clone
 Execute the following command in a terminal :
 `git clone https://github.com/ElodieSavignard/fetch-social-network-data.git`
 
-### Add your API Key inside script
+## Add your API Key inside script
 
 Insert your API key inside var `API_KEY = ''` on the full_youtube_fetch.py script. 
 
-### Install packages
+## Install packages
 Run the command inside your terminal :\
 ```pip install google-api-python-client openpyxl pandas``` 
 
