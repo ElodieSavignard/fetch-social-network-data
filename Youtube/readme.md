@@ -3,9 +3,9 @@ https://www.python.org/downloads/
 
 ## Install Git
 ### For Windows Users :
-Download git bash with the followinf link \
+Download git bash using the following link : \
 https://git-scm.com/downloads \
-Or open cmd and execute \
+Or open cmd and execute : \
 `winget install --id Git.Git -e --source winget` 
 ### For Linux Users
 Use the appropriate package manager command, followed by `git` \
