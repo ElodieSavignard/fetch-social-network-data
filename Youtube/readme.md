@@ -28,4 +28,4 @@ Run the command inside your terminal :\
 
 
 ### Run Script
-python3.9 full_youtube_fetch.py ChannelName
+`python3 full_youtube_fetch.py ChannelName`\
