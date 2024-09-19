@@ -30,10 +30,10 @@ Execute the following command in a terminal :
 
 ## Add your API Key inside script
 
-Insert your API key inside var `API_KEY = ''` on the full_youtube_fetch.py script. 
+Insert your API key in var `API_KEY = ''` inside the full_youtube_fetch.py script. 
 
 ## Install packages
-Run the command inside your terminal :\
+Run the following command in a terminal :\
 ```pip install google-api-python-client openpyxl pandas``` 
 
 
