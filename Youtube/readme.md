@@ -9,7 +9,7 @@ To create your application's API key:
 2 - From the projects list, select a project or create a new one.\
 3 - If the APIs & services page isn't already open, open the left side menu and select APIs & services.\
 4 - On the left, choose Credentials.\
-5 - Click Create credentials and then select API key.
+5 - Click Create credentials and then select API key. \
 6 - Inside the searchbar find "Youtube Data API V3", click and enable it.
 
 https://support.google.com/googleapi/answer/6158862?hl=en 
