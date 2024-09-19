@@ -5,7 +5,7 @@ https://www.python.org/downloads/
 ### For Windows Users :
 Download git bash using the following link : \
 https://git-scm.com/downloads \
-Or open cmd and execute : \
+Or open cmd and run : \
 `winget install --id Git.Git -e --source winget` 
 ### For Linux Users
 Use the appropriate package manager command, followed by `git` \
@@ -25,7 +25,7 @@ To create your application's API key:
 https://support.google.com/googleapi/answer/6158862?hl=en 
 
 ## Git clone
-Execute the following command in a terminal :
+Run the following command in a terminal :
 `git clone https://github.com/ElodieSavignard/fetch-social-network-data.git`
 
 ## Add your API Key inside script
