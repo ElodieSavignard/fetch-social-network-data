@@ -31,7 +31,7 @@ Run the following command in a terminal :
 
 ## Add your API Key inside script
 
-Insert your API key in var `api_key = ''` inside the config.py script. 
+Insert your API key in var `api_key = ''` inside the config.py file. 
 
 ## Install packages
 Run the following command in a terminal :\
