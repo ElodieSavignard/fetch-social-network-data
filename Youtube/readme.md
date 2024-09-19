@@ -1,9 +1,15 @@
 ### Install Python
 https://www.python.org/downloads/ 
 
-### For Windows Users
-Download git bash
-https://git-scm.com/downloads
+### Install Git
+## For Windows Users :
+Download git bash with the followinf link \
+https://git-scm.com/downloads \
+or open cmd and execute
+`winget install --id Git.Git -e --source winget` \
+## For Linux Users
+Use the appropriate package manager command, followed by `git` \
+`sudo dnf install git`
 
 ### Create Google API Key
 
