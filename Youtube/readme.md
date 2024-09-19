@@ -31,7 +31,7 @@ Run the following command in a terminal :
 
 ## Add your API Key inside script
 
-Insert your API key in var `API_KEY = ''` inside the full_youtube_fetch.py script. 
+Insert your API key in var `api_key = ''` inside the config.py script. 
 
 ## Install packages
 Run the following command in a terminal :\
