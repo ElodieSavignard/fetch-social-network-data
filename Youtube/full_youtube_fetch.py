@@ -4,6 +4,7 @@ import pandas as pd
 import sys
 from datetime import datetime
 from googleapiclient.discovery import build
+import config
 
 
 
@@ -94,7 +95,7 @@ def save_to_excel(videos, channel_name):
 
 
 if __name__ == "__main__":
-    API_KEY = ''
+    API_KEY = config.api_key
     channel_name = sys.argv[1]
     youtube = build('youtube', 'v3', developerKey=API_KEY)
 
