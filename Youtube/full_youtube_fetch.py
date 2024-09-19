@@ -89,7 +89,7 @@ def save_to_excel(videos, channel_name):
     filename = f"{channel_name}_{today_date}.xlsx"
     df = pd.DataFrame(videos)
     df.to_excel(filename, index=False)
-    print(f"The data has been saved in the file {filename} inside the folder Results")
+    print(f"The data has been saved in the {filename} file")
 
 
 
