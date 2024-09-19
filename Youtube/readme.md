@@ -14,6 +14,10 @@ To create your application's API key:
 
 https://support.google.com/googleapi/answer/6158862?hl=en 
 
+### Git clone
+Execute the following command in a terminal :
+`git clone https://github.com/ElodieSavignard/fetch-social-network-data.git`
+
 ### Add your API Key inside script
 
 Insert your API key inside var `API_KEY = ''` on the full_youtube_fetch.py script. 
